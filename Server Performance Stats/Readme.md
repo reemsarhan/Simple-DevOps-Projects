@@ -1,7 +1,7 @@
 # server-stats.sh
 
-## Project Page  
-For more information about the server stats project, visit the [project URL](https://roadmap.sh/projects/server-stats) .
+## Project URL  
+[project URL](https://roadmap.sh/projects/server-stats) .
 
 
 ## Overview  
