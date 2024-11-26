@@ -1,7 +1,8 @@
 # server-stats.sh
 
-#### This is the solution for this question  
-[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+## Project Page  
+For more information about the server stats project, visit the [Project Page](https://roadmap.sh/projects/server-stats).
+
 
 ## Overview  
 
