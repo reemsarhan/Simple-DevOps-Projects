@@ -1,7 +1,7 @@
 # server-stats.sh
 
 ## Project URL  
-[project URL](https://roadmap.sh/projects/server-stats) .
+[project URL](https://roadmap.sh/projects/server-stats) 
 
 
 ## Overview  
