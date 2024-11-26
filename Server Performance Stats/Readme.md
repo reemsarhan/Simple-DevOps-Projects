@@ -11,29 +11,30 @@ The `server-stats.sh` script provides essential performance statistics for a Lin
 ### 1. Create the Script File  
 Open a terminal and follow these steps:  
 
-1. **Create the file using `vim`:**  
+**Create the file using `vim`:**  
    ```bash
    vim server-stats.sh
    ```
-##Press i to enter insert mode and paste the script content.
-##After adding the content, press Esc, then type :wq and press Enter to save and exit.
+## Press i to enter insert mode and paste the script content.
+## After adding the content, press Esc, then type :wq and press Enter to save and exit.
 
-###2. Make the Script Executable
-##Run the following command to make the script executable:
+### 2. Make the Script Executable
+## Run the following command to make the script executable:
 
 ```bash
 chmod +x server-stats.sh
 ```
-###3. Run the Script
+### 3. Run the Script
 Execute the script using the following command:
 
 ```bash
 ./server-stats.sh
 ```
-###Example Output
-##When you run the script, the output will look something like this:
+### Example Output
+## When you run the script, the output will look something like this:
 
-``` === Server Stats ===
+```
+ === Server Stats ===
 Total CPU Usage:
 ./server-stats.sh: line 6: mpstat: command not found
 
