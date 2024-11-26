@@ -11,10 +11,11 @@ The `server-stats.sh` script provides essential performance statistics for a Lin
 ### 1. Create the Script File  
 Open a terminal and follow these steps:  
 
-1. Create the file using `vim`:  
+1. **Create the file using `vim`:**  
    ```bash
    vim server-stats.sh
-Press i to enter insert mode and paste the script content.
+   ```
+##Press i to enter insert mode and paste the script content.
 ##After adding the content, press Esc, then type :wq and press Enter to save and exit.
 
 ###2. Make the Script Executable
@@ -22,13 +23,13 @@ Press i to enter insert mode and paste the script content.
 
 ```bash
 chmod +x server-stats.sh
-
+```
 ###3. Run the Script
 Execute the script using the following command:
 
 ```bash
 ./server-stats.sh
-
+```
 ###Example Output
 ##When you run the script, the output will look something like this:
 
@@ -64,5 +65,4 @@ Uptime: up 2 hours, 32 minutes
 Load Average: 0.00, 0.02, 0.00
 Logged in Users: 1
 Failed Login Attempts: 0
-
----
+```
