@@ -1,9 +1,8 @@
 # server-stats.sh
 
-#### This is solution for this question 
-```
-https://roadmap.sh/projects/server-stats
-```
+#### This is the solution for this question  
+[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+
 ## Overview  
 
 The `server-stats.sh` script provides essential performance statistics for a Linux server, including CPU, memory, and disk usage, as well as the top 5 processes consuming the most CPU and memory. Additional system information such as OS version, uptime, load average, logged-in users, and failed login attempts is also displayed.
